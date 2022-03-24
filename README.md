@@ -20,5 +20,6 @@ Identifying and controlling for poor respondents in online surveys is a difficul
 ├── report.pdf
 └── id_summary.txt
  ```
- Note: "q1" means the data includes the first five blocks of questions and q1 in the friendship block(6th)
- Note2: "filled" means that we replace NA, negative values, outliers in time_data with mean
+ * Note: "q1" means the data includes the first five blocks of questions and q1 in the friendship block(6th)
+ 
+ * Note2: "filled" means that we replace NA, negative values, outliers in time_data with mean
